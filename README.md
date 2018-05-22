@@ -26,5 +26,6 @@ It was built using:
 <ul><li>Bootstrap</li>
 <li>Fontawesome</li>
 <li>Circliful</li></ul>
+By me, Daniel D.
 
 It was also somewhat based on the <a href="https://bitbucket.org/baldisos/raspberry-pi-control-panel">Raspberry Pi Control Panel</a> project.
