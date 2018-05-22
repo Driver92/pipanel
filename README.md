@@ -18,7 +18,7 @@ And add these lines:<br />
 For further settings, just edit the config.php file:
 <ul><li>You can change the maximum clock speed (1400 Mhz by default for model B+)</li>
 <li>Changing the voltage (5V by default)</li>
-<li>Change language (English by default, language files can be added by creating your langugage.lang.php in the locale folder)</li>
+<li>Change language (English by default, language files can be added by creating your language.lang.php in the locale folder)</li>
 <li>Custom menu items for the hamburger menu</li></ul>
 
 <h3>Credits</h3>
