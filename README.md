@@ -5,25 +5,25 @@ Pi Panel is a simple responsive web-based panel for your Raspberry Pi. It can gi
 <img src="https://i.imgur.com/IMHKcu7.png" alt="preview">
 
 <h3>Setup</h3>
-All you need is a Web server (Apache2) with PHP and shell execution (usually enabled by default). Simply copy the files and directories to your web folders (/var/www/html) root, or to a subdirectory. It was tested on the latest Raspbian (9.4), on Raspberry Pi 3 Model B Plus, but it may also work on other Linux distros, and Raspberry models.
+All you need is a Web server (Apache2) with PHP and shell execution (usually enabled by default). Simply copy the files and directories to your web folders (/var/www/html) root, or to a subdirectory. It was tested on the latest Raspbian (9.4), on Raspberry Pi 3 Model B Plus, but it may also work on other Linux distros, and Raspberry models.<br />
 
-For the reboot, shutdown and voltage functions to work, edit your sudoers (/etc/sudoers) file:
+For the reboot, shutdown and voltage functions to work, edit your sudoers (/etc/sudoers) file:<br />
 <code>sudo visudo</code>
 
-And add these lines:
-<code>www-data ALL=NOPASSWD:/sbin/shutdown
-www-data ALL=NOPASSWD:/opt/vc/bin/vcgencmd measure_volts</code>
+And add these lines:<br />
+<code>www-data ALL=NOPASSWD:/sbin/shutdown</code><br />
+<code>www-data ALL=NOPASSWD:/opt/vc/bin/vcgencmd measure_volts</code>
 
 For further settings, just edit the config.php file:
-- You can change the maximum clock speed (1400 Mhz by default for model B+)
-- Changing the voltage (5V by default)
-- Change language (English by default, language files can be added by creating your langugage.lang.php in the locale folder)
-- Custom menu items for the hamburger menu
+<ul><li>You can change the maximum clock speed (1400 Mhz by default for model B+)</li>
+<li>Changing the voltage (5V by default)</li>
+<li>Change language (English by default, language files can be added by creating your langugage.lang.php in the locale folder)</li>
+<li>Custom menu items for the hamburger menu</li></ul>
 
 <h3>Credits</h3>
 It was built using:
-- Bootstrap
-- Fontawesome
-- Circliful
+<ul><li>Bootstrap</li>
+<li>Fontawesome</li>
+<li>Circliful</li></ul>
 
 It was also somewhat based on the <a href="https://bitbucket.org/baldisos/raspberry-pi-control-panel">Raspberry Pi Control Panel</a> project.
