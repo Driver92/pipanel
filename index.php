@@ -185,7 +185,7 @@
 			<a class="btn btn-secondary btn-sm" href="https://github.com/HuDriv3r/pipanel" target="_blank"><i class="fab fa-github"></i> Github</a>
 			<a class="btn btn-secondary btn-sm" href="https://github.com/HuDriv3r/pipanel/blob/master/README.md" target="_blank"><i class="fa fa-book"></i> Readme</a>
 			</p>
-			<small class="text-muted">Developed by Daniel Darabos
+			<small class="text-muted">Developed by Daniel D.
 			<br />Published without warranties under <a href="https://www.gnu.org/licenses/gpl-3.0.html" target="_blank">GNU AGPL v3</a>.</small>
 		  </div>
 		</div>
