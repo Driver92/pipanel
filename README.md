@@ -5,7 +5,7 @@ Pi Panel is a simple responsive web-based panel for your Raspberry Pi. It can gi
 <img src="https://i.imgur.com/IMHKcu7.png" alt="preview">
 
 <h3>Setup</h3>
-All you need is a web-server (Apache2) with PHP and shell execution (usually enabled by default). Simply copy the files and directories to your web folder (/var/www/html), it can be the root, or a subdirectory (like pipanel). It was tested on the latest Raspbian (9.4), on Raspberry Pi 3 Model B Plus, but it may also work on other Linux distros, and Raspberry models.<br /><br />
+All you need is a web-server (Apache2) with PHP and shell execution (usually enabled by default). Simply copy the files and directories to your web folder (/var/www/html), it can be the root, or a subdirectory (like pipanel). It works on the latest Raspbian (9.4), on Raspberry Pi 3 Model B Plus, but it may also work on other Linux distros, and Raspberry models.<br /><br />
 
 For the reboot, shutdown and voltage functions to work, edit your sudoers (/etc/sudoers) file:<br />
 <code>sudo visudo</code>
