@@ -24,7 +24,7 @@ For further settings, just edit the config.php file:
 <h3>Credits</h3>
 It was built using:
 <ul><li>Bootstrap</li>
-<li>Fontawesome</li>
+<li>Font Awesome</li>
 <li>Circliful</li></ul>
 By me, Daniel D.
 
