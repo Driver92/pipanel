@@ -182,8 +182,8 @@
 			<h3 class="mb-0"><img src="images/raspberry.svg" class="pi-logo-about" alt="Logo"><br />Pi Panel v1.0</h3>
 			<small class="text-muted">A simple web-based panel for your Raspberry Pi.</small>
 			<p class="mt-3 mb-3">
-			<a class="btn btn-secondary btn-sm" href="https://github.com/HuDriv3r/pipanel" target="_blank"><i class="fab fa-github"></i> Github</a>
-			<a class="btn btn-secondary btn-sm" href="https://github.com/HuDriv3r/pipanel/blob/master/README.md" target="_blank"><i class="fa fa-book"></i> Readme</a>
+			<a class="btn btn-secondary" href="https://github.com/Driver92/pipanel" target="_blank"><i class="fab fa-github"></i> Github</a>
+			<a class="btn btn-secondary" href="https://github.com/Driver92/pipanel/blob/master/README.md" target="_blank"><i class="fa fa-book"></i> Readme</a>
 			</p>
 			<small class="text-muted">Developed by Daniel D.
 			<br />Published without warranties under <a href="https://www.gnu.org/licenses/gpl-3.0.html" target="_blank">GNU AGPL v3</a>.</small>
