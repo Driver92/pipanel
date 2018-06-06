@@ -124,9 +124,9 @@
 	<div class="container">
 		<div class="card text-white bg-dark">
 		  <h3 class="card-header text-center"><img src="images/raspberry.svg" class="pi-logo" alt="Logo">Pi Panel
-		  <a class="btn btn-link text-white float-right" href="<?php echo $_SERVER['PHP_SELF']; ?>" title="<?php echo $locale['refresh']; ?>"><i class="fa fa-sync"></i></a>
+		  <a class="btn btn-dark float-right" href="<?php echo $_SERVER['PHP_SELF']; ?>" title="<?php echo $locale['refresh']; ?>"><i class="fa fa-sync"></i></a>
 		  <div class="dropdown float-left">
-		  <button class="btn btn-link text-white" type="button" data-toggle="dropdown"><i class="fa fa-bars"></i></button>
+		  <button class="btn btn-dark dropdown-toggle" type="button" data-toggle="dropdown"><i class="fa fa-bars pr-1"></i></button>
 		  <div class="dropdown-menu">
 			<?php echo $menu; ?>
 			<a class="dropdown-item" href="#" data-toggle="modal" data-target="#aboutpopup"><i class="fa fa-question-circle fa-fw mr-3"></i><?php echo $locale['about']; ?></a>
