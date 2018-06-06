@@ -24,6 +24,11 @@ main {
     background-color: rgba(52,58,64,0.98) !important;
 }
 
+.btn-dark {
+	background-color: transparent;
+	border-color: transparent;
+}
+
 @media (max-width: 576px) {
 	.container {
 		padding: 0 !important;
