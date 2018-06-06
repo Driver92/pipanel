@@ -28,4 +28,4 @@ It was built using:
 <li>Circliful</li></ul>
 By me, Daniel D.
 
-<br />It was also somewhat based on the <a href="https://bitbucket.org/baldisos/raspberry-pi-control-panel">Raspberry Pi Control Panel</a> project.
+<br />It was also somewhat based on the <a href="https://bitbucket.org/baldisos/raspberry-pi-control-panel" target="_blank">Raspberry Pi Control Panel</a> project.
